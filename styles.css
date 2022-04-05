@@ -1,0 +1,157 @@
+
+html,body{ 
+    height: 100%; 
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.navbar {
+    background-color: #333533;
+    
+}
+
+.firtContainer {
+    min-height: 100%; 
+}
+
+.mainLines{
+text-align: center;
+margin-top: 200px;
+margin-bottom: 250px;
+font-family: 'Montserrat', sans-serif;
+font-weight: 800;
+font-size: 70px;
+}
+
+.title1 {
+    padding-top: 80px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+
+.title2 {
+margin-top: 200px;
+padding-top: 50px;
+font-family: 'Montserrat', sans-serif;
+font-weight: 800;
+}
+
+.title3 {
+    margin-top: 180px;
+    padding-top: 80px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+
+.text {
+    text-align: left;
+
+}
+
+.firstImg {
+    text-align: right;
+}
+
+.travel-img {
+    width: 350px;
+    height: 350px;
+    float: left;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+
+.food-img {
+    width: 350px;
+    height: 350px;
+    float: right;
+    margin-left: 30px;
+}
+
+.walking-img {
+    width: 350px;
+    height: 350px;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 200px;
+}
+
+
+.about-row {
+    width: 70%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.row {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.img {
+    width: 400px;
+    height: 300px;
+}
+
+.me-image {
+    width: 400px;
+    height: 550px;
+    float: right;
+    margin-right: 250px;
+    margin-top: 90px;
+    
+}
+
+.me-text{
+    text-align: left; 
+    float: left;
+    width: 500px;
+    height: 300px;
+    display: inline;
+    margin-top: 200px;
+    margin-left: 200px;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    position: absolute;
+}
+
+.me-text1{
+    text-align: center;
+
+}
+
+
+.me-text2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    padding: 0%;
+    text-align: center;
+}
+
+
+.me-page {
+    width: 700px;
+    height: 700px;
+
+}
+
+.nav-link {
+    margin: 12px;
+    font-size: 18px;
+}
+
+.navbar-brand{
+    font-size: 20px;
+}
+
+.card {
+    margin: auto;
+}
+
+
+
+
+
+
